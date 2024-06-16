@@ -1,4 +1,4 @@
-# webMAN MOD Extensions
+# webMAN MOD - Extensions
 
 This project is designed to enhance your applications by leveraging the functionalities provided in the `WebManExtensions.cs` file. This README will guide you through the main purpose and usage of this project.
 
